@@ -59,3 +59,6 @@ uglifyjs-webpack-plugin 压缩js
 1.  引入webpack-boundle-analyzer分析打包后的文件
 2.  externals 
 3.  tree-shaking
+
+
+参考地址:[掘金文章](https://juejin.im/post/5de87444518825124c50cd36#heading-31)
